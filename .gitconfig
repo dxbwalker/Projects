@@ -1,0 +1,5 @@
+[user]
+	name = crok_cy@yahoo.com
+	email = crok_cy@yahoo.com
+[credential]
+	helper = wincred

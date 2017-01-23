@@ -1,0 +1,12 @@
+#!/bin/bash
+#This simple script echoes some test
+
+echo this is the first simple text
+
+function second_simple_text()
+
+{	
+	echo This is the second simple text.
+}
+
+second_simple_text
